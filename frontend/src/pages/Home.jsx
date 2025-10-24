@@ -15,6 +15,7 @@ const Home = () => {
         <GalleryWidget />
         <Separator/>
       </div>
+      
     </div>
   );
 }
