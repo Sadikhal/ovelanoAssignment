@@ -54,8 +54,8 @@ src/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Sadikhal/ovelanoAssignment.git
+cd frontend
 ````
 
 ### 2️⃣ Install Dependencies
@@ -98,9 +98,9 @@ This project demonstrates:
 ## 🧑‍💻 Author
 
 **Sadikhali p v**
-Frontend Developer
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🔗 [LinkedIn Profile or Portfolio link if you’d like]
+full stack Developer
+📧 [sadikhalikvr@gmail.com](mailto:sadikhalikvr@gmail.com)]
+]
 
 ---
 
